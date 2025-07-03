@@ -8,7 +8,7 @@ from PIL import Image  # Añade esta importación al inicio
 
 
 # Configuración de la página
-st.set_page_config(layout="wide", page_title="Dashboard de Certificaciones TI", page_icon="📊")
+st.set_page_config(layout="wide", page_title="Dashboard de Certificaciones TI", page_icon="✔️")
 
 # Cargar datos desde el Excel generado
 @st.cache_data
