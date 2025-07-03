@@ -1,1 +1,7 @@
 
+[theme]
+primaryColor = "#1971C2"  # Color de botones/accesos
+backgroundColor = "#FFFFFF"  # Fondo principal
+secondaryBackgroundColor = "#F0F2F6"  # Fondo de widgets
+textColor = "#31333F"  # Color de texto
+font = "sans serif"
